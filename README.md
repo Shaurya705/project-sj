@@ -12,15 +12,15 @@ This is a responsive, pixel-perfect landing page for "Wendigo Advisors - IT Heal
 ## Getting Started
 
 1.  Install dependencies:
-    \\\ash
+    \\\ash
     npm install
     \\\`n
 2.  Run the development server:
-    \\\ash
+    \\\ash
     npm run dev
     \\\`n
 3.  Build for production:
-    \\\ash
+    \\\ash
     npm run build
     \\\`n
 ## Project Structure
